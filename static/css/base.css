@@ -88,7 +88,9 @@ a.category-badge > span.badge:hover {
     color: #fff !important;
 }
 
-.btt-button {
+.btt-button,
+.update-link,
+.remove-item {
     height: 42px;
     width: 42px;
     position: fixed;
